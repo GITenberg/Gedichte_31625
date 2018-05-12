@@ -1,0 +1,30 @@
+_repo: Gedichte_31625
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hofmannsthal, Hugo von
+    aliases:
+    - Hofmannstahl, Hugo von
+    - Von Hofmannsthal, Hugo
+    birthdate: 1874
+    deathdate: 1929
+    gutenberg_agent_id: '33600'
+    url: http://www.gutenberg.org/2009/agents/33600
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2010-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31625'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry'
+title: Gedichte
+url: http://www.gutenberg.org/ebooks/31625
